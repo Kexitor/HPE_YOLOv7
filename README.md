@@ -1,6 +1,6 @@
 # Human pose estimation and classification using YOLOv7
 
-This programm classifies poses (walk, fall, fallen, sitting) using Mediapipe for human pose estimation. This programm prototype can only classify 1 person in frame due to Mediapipe limitations. With 37 training videos and 11 test videos it showed about 89% of accuracy on classyfing fall, fallen and walking poses and about 22 FPS on RTX 3060 12GB and i5 12400F.
+This programm classifies poses (walk, fall, fallen, sitting) using Mediapipe for human pose estimation. This programm prototype can classify several persons in one frame. With 37 training videos and 11 test videos it showed about 89% of accuracy on classyfing fall, fallen and walking poses and about 22 FPS on RTX 3060 12GB and i5 12400F.
 
 Example of work: 
 
