@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 This file needed in main directory: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt
 
-
+It is better to use the GPU to work with a program prototype.
 
 ## Used videos for training and testing:
 
