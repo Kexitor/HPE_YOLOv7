@@ -1,10 +1,21 @@
 # Human pose estimation and classification using YOLOv7
 
-This programm classifies poses (walk, fall, fallen, sitting) using Mediapipe for human pose estimation. This programm prototype can only classify 1 person in frame due to Mediapipe limitations. With 37 training videos and 11 test videos it showed about 88% of accuracy on classyfing fall, fallen and walking poses and about 32 FPS on RTX 3060 12GB and i5 12400F.
+This programm classifies poses (walk, fall, fallen, sitting) using Mediapipe for human pose estimation. This programm prototype can only classify 1 person in frame due to Mediapipe limitations. With 37 training videos and 11 test videos it showed about 89% of accuracy on classyfing fall, fallen and walking poses and about 22 FPS on RTX 3060 12GB and i5 12400F.
 
 Example of work: 
 
 
+
+https://github.com/Kexitor/HPE_YOLOv7/assets/55799671/2dbf5a5d-7f5b-4fc2-8be0-469752a709cc
+
+
+
+## To launch this YOLOv7 required:
+```
+git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
+```
+
+Firtsly it is better to clone YOLOv7 by upper link and install requirements.txt and after that overwrite that lib with my files.
 
 ## Used videos for training and testing:
 
@@ -43,6 +54,8 @@ tensorboard>=2.4.1
 pandas>=1.1.4
 
 seaborn>=0.11.0
+
+scikit-learn==1.0.2
 
 
 
