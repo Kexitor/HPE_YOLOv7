@@ -86,5 +86,6 @@ python pose_estimator_yolo.py -i videos\50wtf.mp4
 ```
 
 
+You can check my other prototype: https://github.com/Kexitor/HPE_Mediapipe
 
 
