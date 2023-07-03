@@ -15,7 +15,7 @@ https://github.com/Kexitor/HPE_YOLOv7/assets/55799671/2dbf5a5d-7f5b-4fc2-8be0-46
 git clone https://github.com/RizwanMunawar/yolov7-pose-estimation.git
 ```
 
-Firtsly it is better to clone YOLOv7 by upper link and install requirements.txt and after that overwrite that lib with my files.
+Firtsly it is better to clone YOLOv7 by upper link and install requirements.txt and after that overwrite that cloned repo with my files.
 
 ## Used videos for training and testing:
 
