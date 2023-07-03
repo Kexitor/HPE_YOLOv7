@@ -17,6 +17,8 @@ git clone https://github.com/WongKinYiu/yolov7.git
 
 Firtsly it is better to clone YOLOv7 by upper link and install requirements.txt and after that overwrite that cloned repo with my files.
 
+And this file needed in main directory: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6-pose.pt
+
 ## Used videos for training and testing:
 
 https://www.youtube.com/watch?v=8Rhimam6FgQ
