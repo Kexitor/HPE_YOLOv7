@@ -143,6 +143,7 @@ def pose_estimation_video(filename, NN_pose_est):
             cv2.imshow('Pose estimation', frame)
             fps_time = time.time()
         else:
+            print("end of input or no video")
             break
 
         if cv2.waitKey(10) & 0xFF == ord('q'):
