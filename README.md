@@ -8,6 +8,9 @@ Example of work:
 
 https://github.com/Kexitor/HPE_YOLOv7/assets/55799671/2dbf5a5d-7f5b-4fc2-8be0-469752a709cc
 
+https://youtu.be/qehE7flDOsw
+
+https://www.youtube.com/watch?v=uedp3CnXWmM
 
 
 ## To launch this YOLOv7 required:
